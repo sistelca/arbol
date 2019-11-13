@@ -1,0 +1,1 @@
+Usando d3js.org; esta pagina muestra la estructura de un sistema programado en php, la distribucion de los guiones en el arbol de carpetas, asi como tambien: las relacion, tipo de relacion entre guiones en una carpeta en particular(color de flechas), ademas la clasificacion no supervisada (clusters = 3, color de nodos) de cada guion. 
